@@ -36,14 +36,14 @@ src/modules/nav.ts          navigation flottante, menu mobile, lien actif
 src/modules/cursor.ts       curseur desktop + halo lumineux suivant la souris
 src/modules/reveal.ts       révélations au scroll, découpage des titres
 src/modules/sphere.ts       visuel du hero (réseau géométrique en canvas)
-src/modules/network.ts      réseau abstrait de la section « Why cybersecurity »
+src/modules/network.ts      réseau abstrait de la section « Pourquoi la cybersécurité »
 src/modules/interactions.ts tilt de la carte, boutons magnétiques, interests, timeline
 ```
 
 ## Parcours
 
-Loading → Hero → Profile → Identity → Interests → Mindset → Mission → Objective →
-Why cybersecurity → Application → Contact → Footer.
+Introduction → Accueil → Profil → Identité → Centres d’intérêt → État d’esprit → Mission → Objectif →
+Pourquoi la cybersécurité → Candidature → Contact → Pied de page. Tous les textes du site sont en français.
 
 ## Accessibilité et performances
 

@@ -273,8 +273,9 @@ main,
 .split-line {
   display: block;
   overflow: hidden;
-  padding-bottom: 0.08em;
-  margin-bottom: -0.08em;
+  /* marge pour les accents des capitales (À, É) et les jambages */
+  padding-block: 0.14em 0.08em;
+  margin-block: -0.14em -0.08em;
 }
 
 .split-line__inner {
